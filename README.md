@@ -73,3 +73,15 @@ Run the python file **new_links2training_set.py** in the folder *Data_Process/TL
 
 
 > The TLR methods (Trace BERT and TraceNN) evaluated in this paper can be found at [TraceBERT](https://github.com/jinfenglin/TraceBERT).
+
+## Citation
+```
+@inproceedings{zhu2022enhancing,
+  title={Enhancing Traceability Link Recovery with Unlabeled Data},
+  author={Zhu, Jianfei and Xiao, Guanping and Zheng, Zheng and Sui, Yulei},
+  booktitle={2022 IEEE 33rd International Symposium on Software Reliability Engineering (ISSRE)},
+  pages={446--457},
+  year={2022},
+  organization={IEEE}
+}
+```
